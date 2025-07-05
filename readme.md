@@ -1,25 +1,69 @@
-# Olá Amigo 😁 
+<h1 align="center">Olá! 👋 Me chamo Paulo Santos</h1>
 
-<ul> 
-    <li> Sou : Desenvolvedor Web 👩🏾‍💻</li>
-    <li> Trabalhando com : Angular e Asp.Net Core</li>
-    <li> Pronomes : Ele / Dele</li>
-    <li> Formado em : Técnico em Desenvolvimento de Sistema 🤓 </li>
-    <li> Cursando : Gestão de Tecnologia de informação 📘 </li>
-</ul>
-<div style="display: inline_block"><br>
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/angular.png?updatedAt=1682788746903">
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/js.webp?updatedAt=1682788909992">
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/typescript.png?updatedAt=1682788975579">
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/c-sharp.png?updatedAt=1682789036480">
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/html.png?updatedAt=1682789099322">
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/css.png?updatedAt=1682789172318">
-</div>
+<p align="center">
+  💻 Desenvolvedor Web Full Stack <br/>
+  🚀 4+ anos de experiência com tecnologias modernas <br/>
+  📍 Brasil
+</p>
 
-<h1>Redes Socias</h1>
-<a href="https://www.instagram.com/devpaulosantos/">
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/instagram.png?updatedAt=1682789296888" alt="" srcset="">
-</a>
-<a href="https://www.linkedin.com/in/paulo-santos-540aaa1ba/">
-<img height="40px" width="40px" src="https://ik.imagekit.io/paulohnds/linkedin.png?updatedAt=1682789508544" alt="" srcset="">
-</a>
+---
+
+### 👨‍🎓 Formação
+
+- 🎓 Técnico em Desenvolvimento de Sistemas  
+- 🎓 Graduado em Gestão de Tecnologia da Informação  
+- 📡 Cursando Pós-graduação em Internet das Coisas (IoT)  
+- 💡 Estudando C e C++ para expandir meus conhecimentos em sistemas embarcados e baixo nível  
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou um desenvolvedor web apaixonado por tecnologia, com foco na criação de soluções robustas, performáticas e escaláveis. Tenho experiência em projetos full stack, desenvolvimento de APIs REST e SOAP, microsserviços e integrações entre sistemas corporativos.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Back-end:**
+- Java · Spring Boot · Hibernate  
+- C# · ASP.NET Core · Entity Framework  
+
+**Front-end:**
+- React · Angular  
+- JavaScript · TypeScript · HTML · CSS  
+
+**APIs & Integrações:**
+- REST · SOAP  
+- Web APIs · Integrações entre sistemas  
+
+**Banco de Dados:**
+- PostgreSQL · SQL Server · MySQL  
+
+**Outros:**
+- Git & GitHub · Postman · Swagger · Docker (básico)  
+- C e C++ (em aprendizado)
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [nome-do-projeto](link) | Breve descrição do projeto | Java, Spring Boot, React |
+| [outro-projeto](link) | Descrição de integração ou sistema interno | C#, .NET Core, Angular |
+
+---
+
+### 📫 Contato
+
+- 📧 Email: paulo.work3767@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-santos-540aaa1ba/)  
+- 💻 [GitHub](https://github.com/PauloHNDS)  
+- 🧠 Sempre aprendendo, sempre evoluindo!
+
+---
+
+<p align="center">
+  Obrigado pela visita! ⭐ Vamos codar juntos!
+</p>
