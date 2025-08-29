@@ -46,18 +46,11 @@ Sou um desenvolvedor web apaixonado por tecnologia, com foco na criação de sol
 
 ---
 
-### 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [nome-do-projeto](link) | Breve descrição do projeto | Java, Spring Boot, React |
-| [outro-projeto](link) | Descrição de integração ou sistema interno | C#, .NET Core, Angular |
-
 ---
 
 ### 📫 Contato
 
-- 📧 Email: paulo.work3767@gmail.com  
+- 📧 Email: ps0465882@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-santos-540aaa1ba/)  
 - 💻 [GitHub](https://github.com/PauloHNDS)  
 - 🧠 Sempre aprendendo, sempre evoluindo!
@@ -67,3 +60,4 @@ Sou um desenvolvedor web apaixonado por tecnologia, com foco na criação de sol
 <p align="center">
   Obrigado pela visita! ⭐ Vamos codar juntos!
 </p>
+
